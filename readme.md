@@ -15,7 +15,7 @@
 
 6)Используем эту команду для создания сервера: <b>php artisan serve</b>
 и переходим сюда http://127.0.0.1:8000
-Если увидите такое сообщение <b> No application encryption key has been specified </b>: <b> php artisan key:generate </b>
+Если увидите такое сообщение <b> No application encryption key has been specified </b> воспользуйтесь вот этой командой для решения проблемы: <b> php artisan key:generate </b>
 
 7)Заходим на сайт что бы зайти с правами admin вам понадобится, login: <b> admin@mail.ru </b> , password: <b> 123123123 </b>.
  или можете зарегистрировать нового пользователя и попасть в личный кабинет.
