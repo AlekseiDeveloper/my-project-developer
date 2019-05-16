@@ -2,7 +2,7 @@
 
 Настройка окружения
 
-1)Вам нужно копировать и использовать этот код: <strong>git clone https://github.com/AlekseiDeveloper/web-project.git</strong> или скачать архив.
+1)Вам нужно копировать и использовать этот код: <strong>git clone https://github.com/AlekseiDeveloper/my-project-developer.git</strong> или скачать архив.
 
 2)После после используем эту команду: <b>php composer.phar install</b>
 
